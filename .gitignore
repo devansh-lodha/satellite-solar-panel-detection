@@ -1,3 +1,5 @@
 .DS_Store
 satellite_solar_detection_env
 data
+models
+yolo11x.pt

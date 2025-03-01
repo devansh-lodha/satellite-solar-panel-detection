@@ -1,4 +1,10 @@
+ipykernel
 numpy
 matplotlib
 shapely
 supervision
+ultralytics
+torch
+pillow
+pandas
+seaborn
